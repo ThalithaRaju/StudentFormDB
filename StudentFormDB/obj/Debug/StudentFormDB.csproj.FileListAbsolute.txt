@@ -1,0 +1,10 @@
+C:\Users\Thalitha\source\repos\StudentFormDB\StudentFormDB\bin\Debug\StudentFormDB.exe.config
+C:\Users\Thalitha\source\repos\StudentFormDB\StudentFormDB\bin\Debug\StudentFormDB.exe
+C:\Users\Thalitha\source\repos\StudentFormDB\StudentFormDB\bin\Debug\StudentFormDB.pdb
+C:\Users\Thalitha\source\repos\StudentFormDB\StudentFormDB\obj\Debug\StudentFormDB.csprojAssemblyReference.cache
+C:\Users\Thalitha\source\repos\StudentFormDB\StudentFormDB\obj\Debug\StudentFormDB.Form1.resources
+C:\Users\Thalitha\source\repos\StudentFormDB\StudentFormDB\obj\Debug\StudentFormDB.Properties.Resources.resources
+C:\Users\Thalitha\source\repos\StudentFormDB\StudentFormDB\obj\Debug\StudentFormDB.csproj.GenerateResource.cache
+C:\Users\Thalitha\source\repos\StudentFormDB\StudentFormDB\obj\Debug\StudentFormDB.csproj.CoreCompileInputs.cache
+C:\Users\Thalitha\source\repos\StudentFormDB\StudentFormDB\obj\Debug\StudentFormDB.exe
+C:\Users\Thalitha\source\repos\StudentFormDB\StudentFormDB\obj\Debug\StudentFormDB.pdb
